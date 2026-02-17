@@ -1,0 +1,10 @@
+{
+  "name": "get-shit-done",
+  "description": "A meta-prompting, context engineering and spec-driven development system for Claude Code",
+  "version": "1.11.3",
+  "author": {
+    "name": "TACHES"
+  },
+  "repository": "https://github.com/gsd-build/get-shit-done",
+  "keywords": ["meta-prompting", "context-engineering", "spec-driven-development"]
+}
